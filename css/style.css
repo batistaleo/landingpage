@@ -30,3 +30,16 @@ html,body{
     margin: 15px;
 }
 
+.container-banner{
+    width: 100%;
+    padding: 0 2%;
+    height: 557px;
+    background-image: url(../images/header_bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.container-banner > .center{
+    height: 100%;
+}
+
