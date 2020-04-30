@@ -158,3 +158,34 @@ html,body{
     background-size: 100% 100%;
 }
 
+.section-1{
+    padding: 90px 2%;
+}
+
+.section-1 h2{
+    text-align: center;
+    color: #462663;
+    font-weight: normal;
+}
+
+.container-section{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.container-single{
+    float: left;
+    width: 33.3333%;
+    padding: 30px;
+}
+
+.container-single p{
+    display: inline-block;
+    text-align: justify;
+    padding: 10px;
+}
+
+.container-single img{
+    width: 70px;
+}
+
